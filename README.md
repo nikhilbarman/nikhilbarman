@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikhilbarman
-- 👀 I’m interested in coding with python.
+- 👀 I’m interested in coding with python and Ethical Hacking.
 - 🌱 I’m currently learning web Development with angular, CSS and JS.
 - 📫 How to reach me mail me on nikhilbarman086@gmail.com.
 
